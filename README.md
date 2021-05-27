@@ -45,6 +45,10 @@ Primary scientific hypotheses of the researchers included:
 
 The models we used for this study was the multilevel model. With multilevel models, exploratory analyses must eventually account for the level at which each variable is measured. In a two-level study such as this one, *Level One* will refer to variables measured at the most frequently occurring observational unit, while *Level Two* will refer to variables measured on larger observational units. For example in this study, level two factors can be  variables measure characteristics of participants that remain constant over all performances for a particular musician 
 
+![image](https://user-images.githubusercontent.com/47954276/119771827-e5c7c580-be83-11eb-864a-a2e1a267408a.png)
+![image](https://user-images.githubusercontent.com/47954276/119771893-fed07680-be83-11eb-8f3b-5e14b2c48e57.png)
+
+
 Specifically in this study, the level one and level two factors can include as the follows:
 
 - Level One:
